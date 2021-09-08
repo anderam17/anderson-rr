@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anderson-rr/static/css/main.a617e044.chunk.css",
+    "main.js": "/anderson-rr/static/js/main.714ad5ae.chunk.js",
+    "main.js.map": "/anderson-rr/static/js/main.714ad5ae.chunk.js.map",
+    "runtime-main.js": "/anderson-rr/static/js/runtime-main.6cc5e8b0.js",
+    "runtime-main.js.map": "/anderson-rr/static/js/runtime-main.6cc5e8b0.js.map",
+    "static/js/2.beec7476.chunk.js": "/anderson-rr/static/js/2.beec7476.chunk.js",
+    "static/js/2.beec7476.chunk.js.map": "/anderson-rr/static/js/2.beec7476.chunk.js.map",
+    "static/js/3.c3825ee5.chunk.js": "/anderson-rr/static/js/3.c3825ee5.chunk.js",
+    "static/js/3.c3825ee5.chunk.js.map": "/anderson-rr/static/js/3.c3825ee5.chunk.js.map",
+    "index.html": "/anderson-rr/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/anderson-rr/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.beec7476.chunk.js.LICENSE.txt": "/anderson-rr/static/js/2.beec7476.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anderson-rr/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cc5e8b0.js",
+    "static/js/2.beec7476.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.714ad5ae.chunk.js"
+  ]
+}
